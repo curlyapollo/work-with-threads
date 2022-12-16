@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/ubuntu-1/hw4/chatters/main.cpp
+iostream
+-
+map
+-
+pthread.h
+-
+vector
+-
+unistd.h
+-
+fstream
+-
+

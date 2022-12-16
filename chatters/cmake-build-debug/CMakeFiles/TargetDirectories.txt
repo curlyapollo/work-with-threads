@@ -1,0 +1,3 @@
+/mnt/d/ubuntu-1/hw4/chatters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/ubuntu-1/hw4/chatters/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/ubuntu-1/hw4/chatters/cmake-build-debug/CMakeFiles/chatters.dir
